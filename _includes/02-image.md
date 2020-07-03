@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of Big Sur](https://images.app.goo.gl/iJRzNcgqgi3qJ9zF9)
